@@ -1,2 +1,33 @@
 # homebrew-tap
-Homebrew tap for Askairo CLI/Desktop tools
+
+Homebrew tap for Askairo desktop/CLI tools.
+
+## Install
+
+```bash
+brew tap askairo/tap
+```
+
+## Install Clicky
+
+```bash
+brew install clicky
+```
+
+## Upgrade
+
+```bash
+brew update
+brew upgrade clicky
+```
+
+## Uninstall
+
+```bash
+brew uninstall clicky
+```
+
+## Maintainers
+
+- Cask definitions are stored under `Casks/`.
+- `Casks/clicky.rb` is updated from the Clicky release pipeline.
