@@ -1,8 +1,10 @@
 # homebrew-tap
 
-Homebrew tap for Askairo desktop/CLI tools.
+English | [中文](README_ZH.md)
 
-## Install
+Homebrew tap for Askairo desktop and CLI tools.
+
+## Install Tap
 
 ```bash
 brew tap askairo/tap
