@@ -10,7 +10,7 @@ Askairo 桌面工具与 CLI 工具的 Homebrew tap 仓库。
 brew tap askairo/tap
 ```
 
-## 安装 Clicky
+## 安装 clicky
 
 ```bash
 brew install clicky
@@ -32,4 +32,4 @@ brew uninstall clicky
 ## 维护说明
 
 - Cask 定义存放在 `Casks/` 目录。
-- `Casks/clicky.rb` 由 Clicky 发布流水线更新。
+- `Casks/clicky.rb` 由 clicky 发布流水线更新。
