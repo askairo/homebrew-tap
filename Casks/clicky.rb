@@ -1,8 +1,8 @@
 cask "clicky" do
-  version "0.1.3"
-  sha256 "01ea4c7998bb9eb78b31a66d4bfda2412bc732bd04b7387dc3e588a23eff7696"
+  version "0.1.6"
+  sha256 "eef35e5f1f2482083ff3781d3e06f1388ee0ffe1bd3731266f7a33a94a6b64f1"
 
-  url "https://github.com/askairo/clicky/releases/download/v0.1.3/Clicky_0.1.3_aarch64.dmg"
+  url "https://github.com/askairo/clicky/releases/download/v0.1.6/Clicky_0.1.6_aarch64.dmg"
   name "clicky"
   desc "Cross-platform environment profile switcher for Spring Boot"
   homepage "https://github.com/askairo/clicky"
